@@ -6,8 +6,6 @@
 
 Streamlit과 FastAPI를 활용하여 영화 정보와 사용자 리뷰를 관리하고, OpenAI GPT API를 통해 리뷰의 감성을 긍정·부정·중립으로 분석합니다.
 
-**GitHub Repository:** https://github.com/diokim17/movie-sentiment
-
 ## 1. 주요 기능
 
 ### 영화 관리
